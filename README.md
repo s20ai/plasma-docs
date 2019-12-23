@@ -18,6 +18,6 @@ This repository contains documentation guides describing plasma features and how
 - [Plasma](https://github.com/s20ai/plasma-docs/blob/master/projects.md)
 - [Projects](https://github.com/s20ai/plasma-docs/blob/master/projects.md)
 - [Components](https://github.com/s20ai/plasma-docs/blob/master/writing_components.md)
-- [Package Manager](https://github.com/s20ai/plasma-docs/blob/master/component_manager.md)
+- [Component Manager](https://github.com/s20ai/plasma-docs/blob/master/component_manager.md)
 - [Workflow](https://github.com/s20ai/plasma-docs/blob/master/workflows.md)
 
