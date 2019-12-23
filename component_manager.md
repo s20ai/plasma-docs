@@ -14,7 +14,7 @@ Plasma CLI component operations
 - describe
 
 
-#### list
+### list
 The list operation prints a list of all local components. Both downloaded
 and user defined components will be displayed.
 
