@@ -8,11 +8,10 @@ using the Plasma CLI and then be used in Plasma Workflows.
 
 Plasma CLI component operations
 
-plasma component 
-	- list
-	- search
-	- get
-	- describe
+- list
+- search
+- get
+- describe
 
 
 #### list
