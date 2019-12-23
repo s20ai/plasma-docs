@@ -20,13 +20,13 @@ project-directory
 
 Users can create new projects and load existing projects using the Plasma CLI.
 
-### Creating a Plasma Project 
+#### Creating a Plasma Project 
 
 ```
 plasma project create <project_name>
 ```
 
-### Loading a Plasma Project
+#### Loading a Plasma Project
 
 ```
 plasma project load <project_path>
